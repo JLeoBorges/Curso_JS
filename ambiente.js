@@ -1,0 +1,11 @@
+var c = 1;
+while (c<4){
+    console.log('sono');
+    c++;
+}
+
+var d = 1;
+do {
+    console.log(`Sono ${d}`);
+    d++;
+}while (d<=10);
